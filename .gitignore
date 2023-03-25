@@ -1,0 +1,7 @@
+build
+node_modules/
+config.json
+tmp.txt
+.env
+prisma/seed.ts
+jadwal.json
